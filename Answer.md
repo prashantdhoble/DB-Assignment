@@ -1,0 +1,2 @@
+Answer : * In the Diagram The product have only one category Id, Where as Product Category have multiple associated Product in it. For example I have a Ecommerce site where i am looking a product in my screen its a single product but when i go to product category then a group of products are in Product categorory.
+Answer : *I will ensure that, the each product and its product_id also the category_id, name, description is valid as the main product_Id both are same.
